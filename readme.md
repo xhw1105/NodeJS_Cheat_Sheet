@@ -45,8 +45,8 @@ Inside it, define environment variable such as:
 
 # Run the application
 
-The command to run development mode is 
+The command to run development mode is /br
     npm run dev
 
-The command to run production mode is
+The command to run production mode is /br
     npm start

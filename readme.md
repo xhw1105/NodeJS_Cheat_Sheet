@@ -5,6 +5,7 @@
 - Braket Pair Colourizer
 - Javascript (ES6) Code Snippets
 - ExpressSnippets
+- Material Icon Theme
 
 ## package.json
 
